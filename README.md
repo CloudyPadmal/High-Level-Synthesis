@@ -8,3 +8,5 @@ Requirements:
 - [ ] Status HLS
 - [ ] Catapult
 - [ ] ModelSim (Questa)
+
+[License](LICENSE)
